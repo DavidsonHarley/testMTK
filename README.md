@@ -1,1 +1,2 @@
-# testMTK
+# The Rick and Morty API
+
